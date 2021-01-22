@@ -1,11 +1,11 @@
-// 
+// https://github.com/mazharulislamshakil2/assignment
+
 function kilometerToMeter(kilometer) {
   var meter = kilometer * 1000;
   return meter;
 }
 var result = kilometerToMeter(23);
 console.log(result);
-// end kilometerToMeter;
 // end kilometerToMeter;
 
 function budgetCalculat(watch, phone, laptop) {
@@ -18,7 +18,6 @@ function budgetCalculat(watch, phone, laptop) {
 }
 var result = budgetCalculat(10, 10, 10);
 console.log(result);
-//end budgetCalculat
 //end budgetCalculat
 
 function hotelCost(day) {
@@ -44,7 +43,6 @@ function hotelCost(day) {
 var result = hotelCost(23);
 console.log(result);
 // end hotel cost js
-// end hotel cost
 
 
 function megaFriend(name) {
